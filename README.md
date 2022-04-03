@@ -8,11 +8,8 @@ A website to showcase finished works, in progress, and projects to be.
 ##Built with
 *HTML
 *CSS
-*Flexbox
-*Bulma
-
-- *REACT
-  *MERN stack
+*CSS Grid/Flexbox
+*MERN stack future impliment
 
 ## Website
 
@@ -25,16 +22,16 @@ https://villdevitchoff.github.io/portfolio
 
 ## Contribution
 
-Made with marbles by [your name]
 Made with red heart emoji by VLL
 
-##Special thanks to
+##Special thanks
 
 ##AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 
 ### criteria
+
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
@@ -48,7 +45,6 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
-
 
 -
 -
