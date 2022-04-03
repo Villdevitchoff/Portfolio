@@ -1,4 +1,6 @@
-* {
+/*
+/*:root { 
+ {
     box-sizing: border-box;
 }
 
@@ -11,3 +13,13 @@ main {
     flex-wrap: wrap;
     margin-top: 2%;
 }
+
+font-family:
+    
+  h1{  "Black Hans Sans"; "Rubik Mono One";
+}
+
+h2 { "El Messiri", "Bodoni Moda";
+/*
+
+
