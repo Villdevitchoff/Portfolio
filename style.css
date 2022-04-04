@@ -14,12 +14,49 @@ main {
     margin-top: 2%;
 }
 
-font-family:
-    
-  h1{  "Black Hans Sans"; "Rubik Mono One";
+font-family: h1{  "Black Hans Sans"; "Rubik Mono One";
+  font-size  
 }
 
 h2 { "El Messiri", "Bodoni Moda";
-/*
+*/
+
+/*h1{ header h1 {
+    font-family: 
+    font-weight: bold;
+    font-size: 36px;
+    color: ;
+    margin: 0;
+  }
+  
+  header a {
+    color: hsl(263, 87%, 33%);
+  }
+ /* Here, we're implem/*
 
 
+
+
+.main-section {
+    display:grid;
+}
+
+.div-val {
+    padding: 5px;
+    background:solid gold;
+        border: 2px solid black;
+}
+*/
+main section, 
+ footer {
+    display:grid;
+    grid-template-columns: 1fr 6fr
+}
+
+#production ul  {
+    display:grid;
+    grid-template-columns: 1fr 1fr
+}
+#production ul li:first-child {
+    grid-column: 1 /span 2;
+}
